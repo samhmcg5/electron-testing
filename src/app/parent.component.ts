@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   selector: 'app',
   template:
   `
-  <my-app>Loading My App</my-app>
+  <login>Loading My App</login>
   `
 })
 
